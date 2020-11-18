@@ -10,6 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="93e9204b-6d55-4301-aaa5-32fa35e3ca59" />
+  </component>
   <component name="ProjectId" id="1kSI5M0fBwvLS1uc2fILyS3hSUd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,18 +52,44 @@
       <option name="presentableId" value="Default" />
       <updated>1605687388504</updated>
       <workItem from="1605687391466" duration="1806000" />
-      <workItem from="1605691642784" duration="9395000" />
+      <workItem from="1605691642784" duration="9848000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1605715389809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605715389809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605715389024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605715389024" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605714666821">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="542" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605714666821" />
+    <state x="584" y="328" key="Github.Dialog.Accounts.Choose" timestamp="1605715506670">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="584" y="328" key="Github.Dialog.Accounts.Choose/0.0.1536.834@0.0.1536.834" timestamp="1605715506670" />
+    <state x="576" y="301" key="Github.ShareDialog" timestamp="1605715494663">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="576" y="301" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1605715494663" />
     <state x="300" y="62" key="SettingsEditor" timestamp="1605715361216">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
