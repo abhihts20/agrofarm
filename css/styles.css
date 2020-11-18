@@ -5,6 +5,7 @@ body{
 }
 nav ul li {
     padding: 5px 10px 5px 10px;
+    font-weight: bolder;
 }
 nav ul li a{
     font-size: 0.90rem;
