@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
+body{
+    font-family: 'Montserrat', sans-serif;
+}
 nav ul li {
     padding: 5px 10px 5px 10px;
 }
@@ -84,4 +88,11 @@ nav ul li > a:hover:after{
 }
 #about h4{
     color: #4DB748;
+}
+#served h4{
+    color: #4DB748;
+}
+#served h1{
+    font-size: 5rem;
+    color: green;
 }
