@@ -1,26 +1,27 @@
 function animateValue(id, start, end, duration) {
 
-    var obj = document.getElementById(id);
-    var range = end - start;
+    let obj = document.getElementById(id);
+    let range = end - start;
     // no timer shorter than 50ms (not really visible any way)
-    var minTimer = 50;
-    // calc step time to show all interediate values
-    var stepTime = Math.abs(Math.floor(duration / range));
+    let minTimer = 50;
+    // calc step time to show all intermediate values
+    let stepTime = Math.abs(Math.floor(duration / range));
 
     // never go below minTimer
     stepTime = Math.max(stepTime, minTimer);
 
     // get current time and calculate desired end time
-    var startTime = new Date().getTime();
-    var endTime = startTime + duration;
-    var timer;
+    let startTime = new Date().getTime();
+    let endTime = startTime + duration;
+    let timer;
 
     function run() {
-        var now = new Date().getTime();
-        var remaining = Math.max((endTime - now) / duration, 0);
-        var value = Math.round(end - (remaining * range));
+        let now = new Date().getTime();
+        let remaining = Math.max((endTime - now) / duration, 0);
+        let value = Math.round(end - (remaining * range));
+        // noinspection JSValidateTypes
         obj.innerHTML = value;
-        if (value == end) {
+        if (value === end) {
             clearInterval(timer);
         }
     }
