@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/increaseAnimation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -57,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605687388504</updated>
       <workItem from="1605687391466" duration="1806000" />
-      <workItem from="1605691642784" duration="12996000" />
+      <workItem from="1605691642784" duration="13606000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605717381716</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Font added,served section">
+      <created>1605719162761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605719162761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,13 +111,14 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Images for carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images for carousel" />
+    <MESSAGE value="Font added,served section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Font added,served section" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605717381049">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605719162194">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605717381049" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605719162194" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605714666821">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -128,9 +135,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605715361216" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1605717384171">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1605719165644">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605717384171" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605719165644" />
   </component>
 </project>

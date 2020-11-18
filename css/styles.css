@@ -52,26 +52,41 @@ nav ul li > a:hover:after{
 .carousel-caption {
     top: 55%;
     transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
 }
 
 .blob {
     box-shadow: lightgreen;
     transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
     animation: pulse 2s infinite;
 }
 @keyframes pulse {
     0% {
         transform: scale(0.95);
+        -webkit-transform: scale(0.95);
+        -moz-transform: scale(0.95);
+        -ms-transform: scale(0.95);
         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
     }
 
     70% {
         transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
         box-shadow: 0 0 0 10px rgba(123, 239, 178, 1);
     }
 
     100% {
         transform: scale(0.95);
+        -webkit-transform: scale(0.95);
+        -moz-transform: scale(0.95);
+        -ms-transform: scale(0.95);
         box-shadow: 0 0 0 0 rgba(134, 226, 213, 1);
     }
 }
@@ -95,4 +110,17 @@ nav ul li > a:hover:after{
 #served h1{
     font-size: 5rem;
     color: green;
+}
+
+.card {
+    background: none;
+    border: none;
+
+}
+
+#team .card-title {
+    font-size: 1.5rem;
+}
+#team .card-body {
+    margin-left: -20px;
 }
