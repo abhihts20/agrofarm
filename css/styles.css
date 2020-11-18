@@ -41,6 +41,14 @@ nav ul li > a:hover:after{
     -webkit-transition: transform .3s;
 }
 
+.carousel-item img {
+    height: 50vh;
+}
+
+.carousel-caption {
+    top: 55%;
+    transform: translateY(-50%);
+}
 
 .blob {
     box-shadow: lightgreen;
