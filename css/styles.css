@@ -137,9 +137,19 @@ nav ul li > a:hover:after{
 .card {
     background: none;
     border: none;
+    alignment: center;
+    align-self: center;
 
 }
+.card-img-top{
+    height: 350px;
+    width: 80%;
+    align-self: center;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
 
+}
 #team .card-title {
     font-size: 1.5rem;
 }

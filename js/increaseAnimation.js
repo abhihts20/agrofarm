@@ -1,20 +1,16 @@
 function animateValue(id, start, end, duration) {
-
     let obj = document.getElementById(id);
     let range = end - start;
     // no timer shorter than 50ms (not really visible any way)
     let minTimer = 50;
     // calc step time to show all intermediate values
     let stepTime = Math.abs(Math.floor(duration / range));
-
     // never go below minTimer
     stepTime = Math.max(stepTime, minTimer);
-
     // get current time and calculate desired end time
     let startTime = new Date().getTime();
     let endTime = startTime + duration;
     let timer;
-
     function run() {
         let now = new Date().getTime();
         let remaining = Math.max((endTime - now) / duration, 0);
@@ -30,5 +26,5 @@ function animateValue(id, start, end, duration) {
     run();
 }
 
-animateValue("farmer-value", 0,134712, 1000);
-animateValue("city-value",0,26,500);
+animateValue("farmer-value", 0,1347122, 1500);
+animateValue("city-value",0,26,1000);
