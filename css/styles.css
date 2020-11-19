@@ -157,8 +157,10 @@ nav ul li > a:hover:after{
 }
 #team .card-title {
     font-size: 1.5rem;
+    color:green ;
 }
 #team .card-body {
     margin-left: -20px;
+    color: #4DB748;
 }
 
