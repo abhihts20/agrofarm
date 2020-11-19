@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/increaseAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/increaseAnimation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AbhiVar" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +60,7 @@
       <updated>1605687388504</updated>
       <workItem from="1605687391466" duration="1806000" />
       <workItem from="1605691642784" duration="14745000" />
-      <workItem from="1605773510772" duration="4024000" />
+      <workItem from="1605773510772" duration="6163000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605774365641</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="improvements: images added">
+      <created>1605779194031</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605779194032</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,17 +154,18 @@
     <MESSAGE value="team section" />
     <MESSAGE value="Warning remove" />
     <MESSAGE value="added custom scrollbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="added custom scrollbar" />
+    <MESSAGE value="improvements: images added" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvements: images added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605774364684">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605779193277">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605774364684" />
-    <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605714666821">
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605779193277" />
+    <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605780387840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="542" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605714666821" />
+    <state x="542" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605780387840" />
     <state x="584" y="328" key="Github.Dialog.Accounts.Choose" timestamp="1605715506670">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
