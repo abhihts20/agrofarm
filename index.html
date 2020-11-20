@@ -13,11 +13,15 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
             crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <!-- ------------------------- -->
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" href="images/logo.png">
     <script type="text/javascript" src="js/navbar.js"></script>
-
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<!--    <script type="text/javascript" src="js/photo-gallery.js"></script>-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
 
 
 
@@ -241,12 +245,74 @@
         </div>
     </div>
 </section>
-<section>
+<section id="news">
 
+    <div class="container gallery-container">
+        <div class="section-title">
+            <h2>Gallery</h2>
+        </div>
+        <div class="tz-gallery">
+
+            <div class="row">
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <a class="lightbox" href="images/mjbackground.png">
+                        <img src="images/mjbackground.png" alt="Park">
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
 </section>
+
 
 <!----------------------------------->
 <script type="text/javascript" src="js/increaseAnimation.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
 </body>
 </html>

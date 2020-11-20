@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/photo-gallery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -60,7 +61,8 @@
       <updated>1605687388504</updated>
       <workItem from="1605687391466" duration="1806000" />
       <workItem from="1605691642784" duration="14745000" />
-      <workItem from="1605773510772" duration="6163000" />
+      <workItem from="1605773510772" duration="10042000" />
+      <workItem from="1605853883260" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -139,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605779194032</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="team section">
+      <created>1605781218235</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781218235</updated>
+    </task>
+    <task id="LOCAL-00013" summary="improvement:team section">
+      <created>1605781365532</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605781365532</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,17 +167,22 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Images for carousel" />
     <MESSAGE value="Font added,served section" />
-    <MESSAGE value="team section" />
     <MESSAGE value="Warning remove" />
     <MESSAGE value="added custom scrollbar" />
     <MESSAGE value="improvements: images added" />
-    <option name="LAST_COMMIT_MESSAGE" value="improvements: images added" />
+    <MESSAGE value="team section" />
+    <MESSAGE value="improvement:team section" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvement:team section" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605779193277">
+    <state x="414" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605784118680">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605779193277" />
+    <state x="414" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1605784118680" />
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1605781364531">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605781364531" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605780387840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -178,9 +199,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605715361216" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1605774369133">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1605781367902">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605774369133" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605781367902" />
   </component>
 </project>
