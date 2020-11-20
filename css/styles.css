@@ -173,12 +173,14 @@ nav ul li > a:hover:after{
     color: #4DB748;
 }
 
-.container.gallery-container {
+.gallery-container {
     background-color: #fff;
     color: #35373a;
-    min-height: 100vh;
     border-radius: 20px;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+    /*box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);*/
+    box-shadow: 0 8px 16px -8px rgba(0,0,0,0.4);
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .gallery-container h1 {
