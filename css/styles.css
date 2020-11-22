@@ -38,7 +38,7 @@ nav ul li {
     font-weight: bolder;
 }
 nav ul li a{
-    font-size: 0.90rem;
+    font-size: 0.85rem;
 }
 @media all and (min-width: 992px) {
     .navbar .nav-item .dropdown-menu{  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0;  }
