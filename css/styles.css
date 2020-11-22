@@ -78,14 +78,22 @@ nav ul li > a:hover:after{
 
 .carousel-item img {
     height: 50vh;
+    opacity: 1;
 }
 
-.carousel-caption {
-    top: 55%;
+.carousel-caption{
+    top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
+}
+
+.carousel-caption p{
+    color: white;
+    font-size: 4rem;
+    font-weight: bolder;
+    opacity: 3;
 }
 
 .blob {
