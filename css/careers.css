@@ -20,3 +20,6 @@
     border-color: #4DB748 !important;
     box-shadow: 0 0 10px green !important;
 }
+form .btn{
+    margin-bottom: 15px;
+}
