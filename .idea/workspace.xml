@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bottom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/careers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +78,7 @@
       <workItem from="1605773510772" duration="10042000" />
       <workItem from="1605853883260" duration="2257000" />
       <workItem from="1605978581283" duration="656000" />
-      <workItem from="1606039628810" duration="11962000" />
+      <workItem from="1606039628810" duration="12684000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -224,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606054303028</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="fix:navbar js issue">
+      <created>1606054598214</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606054598214</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,10 +261,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="414" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1605784118680" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1606054302461">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1606054597694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1606054302461" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1606054597694" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605780387840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -271,10 +281,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605715361216" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1606054304900">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1606054601619">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606054304900" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606054601619" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1605854557839">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
