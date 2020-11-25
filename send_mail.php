@@ -12,7 +12,7 @@ $aggregate = $_POST['aggregate'];
 $position = $_POST['position'];
 $experience = $_POST['experience'];
 
-$subject = 'Careers Form Submission';
+$subject = 'Careers Form Submission : $name';
 $mailContent = "<h3>Careers Form Details Are: </h3>
 <br>
 <p><strong>Name:</strong> $name<br>
