@@ -26,5 +26,5 @@ function animateValue(id, start, end, duration) {
     run();
 }
 
-animateValue("farmer-value", 0,1347122, 1500);
-animateValue("city-value",0,26,1000);
+animateValue("farmer-value", 0,1347122, 1800);
+animateValue("city-value",0,26,1300);
