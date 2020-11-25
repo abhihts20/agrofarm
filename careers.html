@@ -17,6 +17,10 @@
         $(function () {
             $('#nav-header-career').load("navbar.html");
         });
+        $(function () {
+            $('#bottom-career').load("bottom.html");
+        });
+
     </script>
 </head>
 <body>
@@ -45,29 +49,41 @@
                 <form>
                     <div class="form-group">
                         <label for="name">Name : </label>
-                        <input type="text" class="form-control" id="name" placeholder="Enter Name">
+                        <input type="text" class="form-control" id="name" name="name" placeholder="Enter Name" required>
                     </div>
                     <div class="form-group">
                         <label for="email">Email : </label>
-                        <input type="email" class="form-control" id="email" placeholder="Enter Email">
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Enter Email" required>
                     </div>
                     <div class="form-group">
                         <label for="mobile">Mobile Number : </label>
-                        <input type="number" class="form-control"
-                               id="mobile" placeholder="Enter Mobile Number">
+                        <input type="number" class="form-control" name="mobile"
+                               id="mobile" placeholder="Enter Mobile Number" required>
                     </div>
+                   <div class="form-group">
+                       <div class="form-row">
+                           <div class="col">
+                               <label for="education">Qualification : </label>
+                               <input id="education" type="text" class="form-control" name="education" placeholder="Current Educational Qualification" required>
+                           </div>
+                           <div class="col">
+                               <label for="aggregate">Aggregate(%) : </label>
+                               <input type="number" id="aggregate" class="form-control" name="aggregate" placeholder="Aggregate" required>
+                           </div>
+                       </div>
+                   </div>
                     <div class="form-group">
                         <label for="position">Choose Position</label>
-                        <select class="form-control" id="position">
-                            <option>Branch manager</option>
-                            <option>Team manager</option>
-                            <option>Sales officer</option>
-                            <option>Sales executive</option>
+                        <select class="form-control" id="position" name="position" required>
+                            <option value="Branch Manager">Branch Manager</option>
+                            <option value="Team Manager">Team Manager</option>
+                            <option value="Sales Officer">Sales Officer</option>
+                            <option value="Sales Executive">Sales Executive</option>
                         </select>
                     </div>
                     <div class="form-group">
-                        <label for="description">Why you want this job?</label>
-                        <textarea class="form-control" id="description" rows="4"></textarea>
+                        <label for="description">Past experience(if any)</label>
+                        <textarea class="form-control" id="description" name="experience" rows="4" required></textarea>
                     </div>
                     <input type="submit" class="btn btn-outline-success">
                     <input type="reset" class="btn btn-outline-danger">
@@ -76,6 +92,6 @@
         </div>
     </div>
 </section>
-
+<div id="bottom-career"></div>
 </body>
 </html>

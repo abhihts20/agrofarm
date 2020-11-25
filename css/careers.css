@@ -23,3 +23,8 @@
 form .btn{
     margin-bottom: 15px;
 }
+
+select{
+    background-color: white;
+    border-radius: 10px;
+}

@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bottom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send_mail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/careers.html" beforeDir="false" afterPath="$PROJECT_DIR$/careers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/careers.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/careers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AbhiVar" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,7 +80,10 @@
       <workItem from="1605773510772" duration="10042000" />
       <workItem from="1605853883260" duration="2257000" />
       <workItem from="1605978581283" duration="656000" />
-      <workItem from="1606039628810" duration="12684000" />
+      <workItem from="1606039628810" duration="14442000" />
+      <workItem from="1606112007954" duration="1706000" />
+      <workItem from="1606113900913" duration="7374000" />
+      <workItem from="1606285652007" duration="403000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -234,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606054598214</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fix:navbar js issue">
+      <created>1606055476456</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606055476456</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,10 +273,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="414" y="207" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1605784118680" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1606054597694">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1606055475775">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1606054597694" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1606055475775" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605780387840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -277,14 +289,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="576" y="301" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1605715494663" />
-    <state x="300" y="62" key="SettingsEditor" timestamp="1605715361216">
+    <state x="300" y="62" key="SettingsEditor" timestamp="1606113860625">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605715361216" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1606054601619">
+    <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1606113860625" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1606055478734">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606054601619" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606055478734" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1605854557839">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
