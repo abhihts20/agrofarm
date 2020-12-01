@@ -8,7 +8,7 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $mobile = $_POST['mobile'];
 $education = $_POST['education'];
-$aggregate = $_POST['aggregate'];
+$passingYear = $_POST['passing-year'];
 $position = $_POST['position'];
 $experience = $_POST['experience'];
 
@@ -19,7 +19,7 @@ $mailContent = "<h3>Careers Form Details Are: </h3>
 <strong>Email:</strong> $email<br>
 <strong>Mobile Number:</strong> $mobile<br>
 <strong>Education:</strong> $education<br>
-<strong>Aggregate:</strong> $aggregate<br>
+<strong>passing-year:</strong> $passingYear<br>
 <strong>Position:</strong> $position<br>
 <strong>Experience:</strong> $experience<br><p>";
 
