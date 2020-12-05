@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/marketing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img9.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bottom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/increaseAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/increaseAnimation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +47,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AbhiVar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\We Showed Up\website\mjbi-website\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\We Showed Up\website\mjbi-website\images" />
       <recent name="D:\We Showed Up\website\mjbi-website\js" />
       <recent name="D:\We Showed Up\website\mjbi-website\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\We Showed Up\website\mjbi-website\images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -90,6 +96,7 @@
       <workItem from="1606820428745" duration="5387000" />
       <workItem from="1607090726018" duration="2295000" />
       <workItem from="1607149263393" duration="3672000" />
+      <workItem from="1607177999035" duration="2415000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -301,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607092709514</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="services page add">
+      <created>1607178251175</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607178251175</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,10 +351,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1606476677255" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1607092708864">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1607178250166">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607092708864" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607178250166" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605780387840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -357,10 +371,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1606113860625" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1607092712716">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1607178264450">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607092712716" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607178264450" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1605854557839">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
