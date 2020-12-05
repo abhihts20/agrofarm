@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bottom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,8 @@
       <workItem from="1606285652007" duration="11070000" />
       <workItem from="1606474645238" duration="6258000" />
       <workItem from="1606820428745" duration="5387000" />
-      <workItem from="1607090726018" duration="1966000" />
+      <workItem from="1607090726018" duration="2295000" />
+      <workItem from="1607149263393" duration="3672000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -291,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607092055176</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="services page add">
+      <created>1607092709514</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607092709514</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +325,8 @@
     <MESSAGE value="Testimonial slider" />
     <MESSAGE value="about us and improvements" />
     <MESSAGE value="rnd page add" />
-    <option name="LAST_COMMIT_MESSAGE" value="rnd page add" />
+    <MESSAGE value="services page add" />
+    <option name="LAST_COMMIT_MESSAGE" value="services page add" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="207" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605784118680">
@@ -326,10 +337,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1606476677255" />
-    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1607092053932">
+    <state x="293" y="0" key="CommitChangelistDialog2" timestamp="1607092708864">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607092053932" />
+    <state x="293" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607092708864" />
     <state x="542" y="172" key="FileChooserDialogImpl" timestamp="1605780387840">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -346,10 +357,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="300" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1606113860625" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1607092058707">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1607092712716">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607092058707" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607092712716" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1605854557839">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
