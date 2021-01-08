@@ -2,75 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2567ac38-d774-4724-96ad-df7686bec3fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/COMMITMENT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/SECURITY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/VERSION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/get_oauth_token.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-af.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-az.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ba.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-be.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-bg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ca.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-cs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-da.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-de.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-el.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-eo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-es.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-et.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-fa.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-fi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-fo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-fr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-gl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-he.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-hi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-hr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-hu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-hy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-id.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-it.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ja.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ka.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ko.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-lt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-lv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-mg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-nb.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-nl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-pl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-pt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ro.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-ru.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-sk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-sl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-sr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-sv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-tl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-tr.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-uk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-vi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-zh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/phpunit.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/src/Exception.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/src/OAuth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/src/PHPMailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/src/POP3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPMailer/PHPMailer/src/SMTP.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_send_mail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bottom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,9 +28,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="93e9204b-6d55-4301-aaa5-32fa35e3ca59" />
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
   </component>
@@ -113,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -178,7 +108,7 @@
       <workItem from="1607149263393" duration="3672000" />
       <workItem from="1607177999035" duration="6437000" />
       <workItem from="1610109015167" duration="4428000" />
-      <workItem from="1610120662783" duration="268000" />
+      <workItem from="1610120662783" duration="2013000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1605715389809</created>
@@ -425,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607186128486</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Improvements">
+      <created>1610121142258</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1610121142258</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
